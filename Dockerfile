@@ -1,4 +1,4 @@
-FROM paperist/alpine-texlive-ja
+FROM atton/alpine-texlive-ja
 
 ENV TZ Asia/Tokyo
 
